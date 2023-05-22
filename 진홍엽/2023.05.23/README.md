@@ -1,5 +1,6 @@
 # django에서 SCSS 적용하기
 ## SCSS가 뭔데?
+Sassy Cascading Style Sheets
 [SCSS 공식페이지](https://sass-lang.com/guide)    
 ### SCSS 사용하면 얻을 수 있는 이점 예
 1.  Nesting 들여쓰기 가능
@@ -130,3 +131,13 @@ $primary: purple;
 
 @import './bootstrap-5.3.0-alpha3/scss/bootstrap';
 ```
+## 관련자료
+- [SCSS 공식 홈페이지](https://sass-lang.com/)
+- [Bootsrap 공식 홈페이지-customize/sass](https://getbootstrap.com/docs/5.3/customize/sass/)
+- [How to use SCSS/SASS in your Django project (Python Way) by Michael Yin](https://www.accordbox.com/blog/how-use-scss-sass-your-django-project-python-way/)
+- [장고 프로젝트에서 SASS/SCSS 사용하기](https://blog.jaeyoon.io/2017/10/django-sass.html)
+- [django scss/sass 사용하는 방법 by SOPHIA](https://itinerant.tistory.com/143)
+- [SCSS 문법정리 by seokzin](https://seokzin.tistory.com/entry/SCSS-SCSS-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC)
+- [[아무튼 Sass] 1. 시작하기 - Sass 개념, 컴파일러 설치](https://nykim.work/97)
+- [django SCSS by masterkorea01](https://velog.io/@masterkorea01/django-SCSS)
+- [SCSS 소개 설치세팅 총정리 by inpa](https://inpa.tistory.com/entry/SCSS-%F0%9F%92%8E-SassSCSS-%EB%9E%80-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%B4%ED%8C%8C%EC%9D%BC)
