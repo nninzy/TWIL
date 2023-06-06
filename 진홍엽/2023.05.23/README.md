@@ -84,7 +84,7 @@ Sassy Cascading Style Sheets
     ```
 ### 어케 작동하는데?
 - 브라우저는 css만 읽을 수 있다. 
-- 따라서 우리가 작성한 scss를 css로 번역해줄(컴파일해줄) 컴파일러가 필요
+- 따라서 우리가 작성한 scss를 css로 번역해줄(컴파일해줄) 컴파일러가 필요    
 ![compiler](assets/scss_compiler.jpg)
 
 ## 어케 쓰는데 (django에서)?
